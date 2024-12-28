@@ -38,7 +38,7 @@ export default function RootLayout({
             <header className="flex h-16 items-center">
               <Header />
             </header>
-            <main className="flex-1">{children}</main>
+            <main className="mx-auto flex-1">{children}</main>
             <footer className="flex h-16 items-center justify-center">
               <Footer />
             </footer>
