@@ -1,7 +1,7 @@
 import TypingEffect from "@/components/global/typing-effect"
 import type { Metadata } from "next"
 import React from "react"
-import typingContext from "@/data/typing-context.json"
+import typingContext from "@/data/typing-content.json"
 
 export const metadata: Metadata = {
   title: "Home",
